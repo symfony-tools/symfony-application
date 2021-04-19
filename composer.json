@@ -12,40 +12,40 @@
         "doctrine/orm": "^2.8",
         "phpdocumentor/reflection-docblock": "^5.2",
         "sensio/framework-extra-bundle": "^5.1",
-        "symfony/asset": "4.4.*",
-        "symfony/console": "4.4.*",
-        "symfony/dotenv": "4.4.*",
-        "symfony/expression-language": "4.4.*",
+        "symfony/asset": "5.3.*",
+        "symfony/console": "5.3.*",
+        "symfony/dotenv": "5.3.*",
+        "symfony/expression-language": "5.3.*",
         "symfony/flex": "^1.3.1",
-        "symfony/form": "4.4.*",
-        "symfony/framework-bundle": "4.4.*",
-        "symfony/http-client": "4.4.*",
-        "symfony/intl": "4.4.*",
-        "symfony/mailer": "4.4.*",
+        "symfony/form": "5.3.*",
+        "symfony/framework-bundle": "5.3.*",
+        "symfony/http-client": "5.3.*",
+        "symfony/intl": "5.3.*",
+        "symfony/mailer": "5.3.*",
         "symfony/monolog-bundle": "^3.1",
-        "symfony/process": "4.4.*",
-        "symfony/property-access": "4.4.*",
-        "symfony/property-info": "4.4.*",
-        "symfony/proxy-manager-bridge": "4.4.*",
-        "symfony/security-bundle": "4.4.*",
-        "symfony/serializer": "4.4.*",
-        "symfony/translation": "4.4.*",
-        "symfony/twig-bundle": "^4.4",
-        "symfony/validator": "4.4.*",
-        "symfony/web-link": "4.4.*",
-        "symfony/yaml": "4.4.*",
-        "twig/extra-bundle": "^2.12|^3.0",
-        "twig/twig": "^2.12|^3.0"
+        "symfony/process": "5.3.*",
+        "symfony/property-access": "5.3.*",
+        "symfony/property-info": "5.3.*",
+        "symfony/proxy-manager-bridge": "5.3.*",
+        "symfony/security-bundle": "5.3.*",
+        "symfony/serializer": "5.3.*",
+        "symfony/translation": "5.3.*",
+        "symfony/twig-bundle": "5.3.*",
+        "symfony/validator": "5.3.*",
+        "symfony/web-link": "5.3.*",
+        "symfony/yaml": "5.3.*",
+        "twig/extra-bundle": "^3.0",
+        "twig/twig": "^3.0"
     },
     "require-dev": {
-        "symfony/browser-kit": "^4.4",
-        "symfony/css-selector": "^4.4",
-        "symfony/debug-bundle": "^4.4",
+        "symfony/browser-kit": "5.3.*",
+        "symfony/css-selector": "5.3.*",
+        "symfony/debug-bundle": "5.3.*",
         "symfony/maker-bundle": "^1.0",
-        "symfony/phpunit-bridge": "^5.2",
-        "symfony/stopwatch": "^4.4",
-        "symfony/var-dumper": "^4.4",
-        "symfony/web-profiler-bundle": "^4.4"
+        "symfony/phpunit-bridge": "5.3.*",
+        "symfony/stopwatch": "5.3.*",
+        "symfony/var-dumper": "5.3.*",
+        "symfony/web-profiler-bundle": "5.3.*"
     },
     "config": {
         "preferred-install": {
@@ -89,7 +89,9 @@
     "extra": {
         "symfony": {
             "allow-contrib": false,
-            "require": "4.4.*"
+            "require": "5.3.*"
         }
-    }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
