@@ -22,6 +22,8 @@
         "symfony/http-client": "5.3.*",
         "symfony/intl": "5.3.*",
         "symfony/mailer": "5.3.*",
+        "symfony/mercure-bundle": "^0.3.2",
+        "symfony/messenger": "5.3.*",
         "symfony/monolog-bundle": "^3.1",
         "symfony/process": "5.3.*",
         "symfony/property-access": "5.3.*",
@@ -33,6 +35,7 @@
         "symfony/twig-bundle": "5.3.*",
         "symfony/validator": "5.3.*",
         "symfony/web-link": "5.3.*",
+        "symfony/webpack-encore-bundle": "^1.11",
         "symfony/yaml": "5.3.*",
         "twig/extra-bundle": "^3.0",
         "twig/twig": "^3.0"
