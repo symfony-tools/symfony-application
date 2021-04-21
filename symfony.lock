@@ -265,6 +265,18 @@
     "symfony/intl": {
         "version": "v4.4.20"
     },
+    "symfony/lock": {
+        "version": "5.2",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "master",
+            "version": "5.2",
+            "ref": "13350583a83fa636bf45a5fb62da3bdc73be52a1"
+        },
+        "files": [
+            "config/packages/lock.yaml"
+        ]
+    },
     "symfony/mailer": {
         "version": "4.3",
         "recipe": {
@@ -334,6 +346,18 @@
             "config/packages/test/monolog.yaml"
         ]
     },
+    "symfony/notifier": {
+        "version": "5.0",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "master",
+            "version": "5.0",
+            "ref": "c31585e252b32fe0e1f30b1f256af553f4a06eb9"
+        },
+        "files": [
+            "config/packages/notifier.yaml"
+        ]
+    },
     "symfony/options-resolver": {
         "version": "v4.4.20"
     },
@@ -393,6 +417,9 @@
     },
     "symfony/proxy-manager-bridge": {
         "version": "v4.4.20"
+    },
+    "symfony/rate-limiter": {
+        "version": "v5.2.6"
     },
     "symfony/redis-messenger": {
         "version": "v5.2.4"
