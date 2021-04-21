@@ -146,7 +146,7 @@
         ]
     },
     "symfony/amqp-messenger": {
-        "version": "v5.2.4"
+        "version": "v5.3.0-beta1"
     },
     "symfony/asset": {
         "version": "v4.4.20"
@@ -204,7 +204,7 @@
         "version": "v4.4.21"
     },
     "symfony/doctrine-messenger": {
-        "version": "v5.2.5"
+        "version": "v5.3.0-beta1"
     },
     "symfony/dom-crawler": {
         "version": "v4.4.20"
@@ -414,7 +414,7 @@
         "version": "v4.4.20"
     },
     "symfony/redis-messenger": {
-        "version": "v5.2.4"
+        "version": "v5.3.0-beta1"
     },
     "symfony/routing": {
         "version": "4.2",
