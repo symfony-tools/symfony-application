@@ -145,6 +145,9 @@
             "config/packages/sensio_framework_extra.yaml"
         ]
     },
+    "symfony/amqp-messenger": {
+        "version": "v5.2.4"
+    },
     "symfony/asset": {
         "version": "v4.4.20"
     },
@@ -199,6 +202,9 @@
     },
     "symfony/doctrine-bridge": {
         "version": "v4.4.21"
+    },
+    "symfony/doctrine-messenger": {
+        "version": "v5.2.5"
     },
     "symfony/dom-crawler": {
         "version": "v4.4.20"
@@ -403,6 +409,9 @@
     },
     "symfony/proxy-manager-bridge": {
         "version": "v4.4.20"
+    },
+    "symfony/redis-messenger": {
+        "version": "v5.2.4"
     },
     "symfony/routing": {
         "version": "4.2",
