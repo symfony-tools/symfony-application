@@ -34,6 +34,7 @@
         "symfony/serializer": "*",
         "symfony/translation": "*",
         "symfony/twig-bundle": "*",
+        "symfony/uid": "*",
         "symfony/validator": "*",
         "symfony/web-link": "*",
         "symfony/webpack-encore-bundle": "^1.11",
