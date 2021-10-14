@@ -1,4 +1,18 @@
 {
+    "api-platform/core": {
+        "version": "2.6",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "master",
+            "version": "2.5",
+            "ref": "05b57782a78c21a664a42055dc11cf1954ca36bb"
+        },
+        "files": [
+            "config/routes/api_platform.yaml",
+            "config/packages/api_platform.yaml",
+            "src/Entity/.gitignore"
+        ]
+    },
     "composer/package-versions-deprecated": {
         "version": "1.11.99.1"
     },
@@ -68,6 +82,9 @@
     },
     "egulias/email-validator": {
         "version": "3.1.1"
+    },
+    "fig/link-util": {
+        "version": "1.2.0"
     },
     "friendsofphp/proxy-manager-lts": {
         "version": "v1.0.3"
@@ -597,5 +614,8 @@
     },
     "webmozart/assert": {
         "version": "1.10.0"
+    },
+    "willdurand/negotiation": {
+        "version": "3.0.0"
     }
 }
