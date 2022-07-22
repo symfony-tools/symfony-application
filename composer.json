@@ -55,6 +55,9 @@
         "symfony/web-profiler-bundle": "5.4.*"
     },
     "config": {
+        "allow-plugins": {
+            "symfony/flex": true
+        },
         "preferred-install": {
             "*": "dist"
         },
