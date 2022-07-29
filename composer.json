@@ -55,10 +55,16 @@
         "symfony/web-profiler-bundle": "5.4.*"
     },
     "config": {
+        "allow-plugins": {
+            "symfony/flex": true
+        },
         "preferred-install": {
             "*": "dist"
         },
-        "sort-packages": true
+        "sort-packages": true,
+        "allow-plugins": {
+            "symfony/flex": true
+        }
     },
     "autoload": {
         "psr-4": {
