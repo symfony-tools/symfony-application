@@ -30,6 +30,7 @@
         "symfony/property-info": "6.1.*",
         "symfony/proxy-manager-bridge": "6.1.*",
         "symfony/rate-limiter": "6.1.*",
+        "symfony/routing": "6.1.*",
         "symfony/security-bundle": "6.1.*",
         "symfony/serializer": "6.1.*",
         "symfony/translation": "6.1.*",
@@ -53,6 +54,9 @@
         "symfony/web-profiler-bundle": "6.1.*"
     },
     "config": {
+        "allow-plugins": {
+            "symfony/flex": true
+        },
         "preferred-install": {
             "*": "dist"
         },
