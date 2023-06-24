@@ -83,12 +83,6 @@
     "fig/link-util": {
         "version": "1.2.0"
     },
-    "friendsofphp/proxy-manager-lts": {
-        "version": "v1.0.5"
-    },
-    "laminas/laminas-code": {
-        "version": "4.5.0"
-    },
     "lcobucci/clock": {
         "version": "2.1.0"
     },
@@ -119,26 +113,11 @@
     "psr/event-dispatcher": {
         "version": "1.0.0"
     },
-    "psr/event-dispatcher": {
-        "version": "1.0.0"
-    },
     "psr/link": {
         "version": "1.1.1"
     },
     "psr/log": {
         "version": "2.0.0"
-    },
-    "sensio/framework-extra-bundle": {
-        "version": "5.6",
-        "recipe": {
-            "repo": "github.com/symfony/recipes",
-            "branch": "master",
-            "version": "5.2",
-            "ref": "fb7e19da7f013d0d422fa9bce16f5c510e27609b"
-        },
-        "files": [
-            "config/packages/sensio_framework_extra.yaml"
-        ]
     },
     "symfony/amqp-messenger": {
         "version": "v6.0.0"
@@ -269,18 +248,6 @@
     },
     "symfony/intl": {
         "version": "v5.4.0"
-    },
-    "symfony/lock": {
-        "version": "6.0",
-        "recipe": {
-            "repo": "github.com/symfony/recipes",
-            "branch": "master",
-            "version": "5.2",
-            "ref": "a1c8800e40ae735206bb14586fdd6c4630a51b8d"
-        },
-        "files": [
-            "config/packages/lock.yaml"
-        ]
     },
     "symfony/lock": {
         "version": "6.0",
@@ -432,12 +399,6 @@
     "symfony/property-info": {
         "version": "v5.4.0"
     },
-    "symfony/proxy-manager-bridge": {
-        "version": "v5.4.0"
-    },
-    "symfony/rate-limiter": {
-        "version": "v5.4.0"
-    },
     "symfony/rate-limiter": {
         "version": "v6.0.0"
     },
@@ -524,9 +485,6 @@
             "config/packages/twig.yaml",
             "templates/base.html.twig"
         ]
-    },
-    "symfony/uid": {
-        "version": "v5.4.0"
     },
     "symfony/uid": {
         "version": "v6.0.0"
