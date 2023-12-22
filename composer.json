@@ -40,6 +40,7 @@
         "symfony/uid": "6.3.*",
         "symfony/validator": "6.3.*",
         "symfony/web-link": "6.3.*",
+        "symfony/webhook": "6.3.*",
         "symfony/webpack-encore-bundle": "^1.11",
         "symfony/yaml": "6.3.*",
         "twig/extra-bundle": "^3.0",
