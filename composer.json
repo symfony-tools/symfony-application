@@ -33,6 +33,7 @@
         "symfony/proxy-manager-bridge": "6.3.*",
         "symfony/rate-limiter": "6.3.*",
         "symfony/routing": "6.3.*",
+        "symfony/scheduler": "6.3.*",
         "symfony/security-bundle": "6.3.*",
         "symfony/serializer": "6.3.*",
         "symfony/translation": "6.3.*",
