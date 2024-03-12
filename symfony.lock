@@ -119,9 +119,6 @@
     "psr/event-dispatcher": {
         "version": "1.0.0"
     },
-    "psr/event-dispatcher": {
-        "version": "1.0.0"
-    },
     "psr/link": {
         "version": "1.1.1"
     },
@@ -145,6 +142,21 @@
     },
     "symfony/asset": {
         "version": "v5.4.0"
+    },
+    "symfony/asset-mapper": {
+        "version": "7.1",
+        "recipe": {
+            "repo": "github.com/symfony/recipes",
+            "branch": "main",
+            "version": "6.4",
+            "ref": "6c28c471640cc2c6e60812ebcb961c526ef8997f"
+        },
+        "files": [
+            "assets/app.js",
+            "assets/styles/app.css",
+            "config/packages/asset_mapper.yaml",
+            "importmap.php"
+        ]
     },
     "symfony/browser-kit": {
         "version": "v5.4.0"
@@ -269,18 +281,6 @@
     },
     "symfony/intl": {
         "version": "v5.4.0"
-    },
-    "symfony/lock": {
-        "version": "6.0",
-        "recipe": {
-            "repo": "github.com/symfony/recipes",
-            "branch": "master",
-            "version": "5.2",
-            "ref": "a1c8800e40ae735206bb14586fdd6c4630a51b8d"
-        },
-        "files": [
-            "config/packages/lock.yaml"
-        ]
     },
     "symfony/lock": {
         "version": "6.0",
@@ -436,9 +436,6 @@
         "version": "v5.4.0"
     },
     "symfony/rate-limiter": {
-        "version": "v5.4.0"
-    },
-    "symfony/rate-limiter": {
         "version": "v6.0.0"
     },
     "symfony/redis-messenger": {
@@ -524,9 +521,6 @@
             "config/packages/twig.yaml",
             "templates/base.html.twig"
         ]
-    },
-    "symfony/uid": {
-        "version": "v5.4.0"
     },
     "symfony/uid": {
         "version": "v6.0.0"
