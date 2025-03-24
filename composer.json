@@ -29,6 +29,7 @@
         "symfony/messenger": "*",
         "symfony/monolog-bundle": "^3.1",
         "symfony/notifier": "*",
+        "symfony/object-mapper": "*",
         "symfony/process": "*",
         "symfony/property-access": "*",
         "symfony/property-info": "*",
