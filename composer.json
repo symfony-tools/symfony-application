@@ -22,6 +22,7 @@
         "symfony/html-sanitizer": "*",
         "symfony/http-client": "*",
         "symfony/intl": "*",
+        "symfony/json-path": "*",
         "symfony/json-streamer": "*",
         "symfony/lock": "*",
         "symfony/mailer": "*",
