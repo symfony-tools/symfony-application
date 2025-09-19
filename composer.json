@@ -2,7 +2,7 @@
     "type": "project",
     "license": "proprietary",
     "require": {
-        "php": ">=8.1",
+        "php": ">=8.3",
         "ext-ctype": "*",
         "ext-iconv": "*",
         "composer/package-versions-deprecated": "1.11.99.1",
@@ -22,6 +22,7 @@
         "symfony/html-sanitizer": "*",
         "symfony/http-client": "*",
         "symfony/intl": "*",
+        "symfony/json-path": "*",
         "symfony/json-streamer": "*",
         "symfony/lock": "*",
         "symfony/mailer": "*",
@@ -50,6 +51,7 @@
         "twig/twig": "^3.0"
     },
     "require-dev": {
+        "phpunit/phpunit": "*",
         "symfony/browser-kit": "*",
         "symfony/css-selector": "*",
         "symfony/debug-bundle": "*",
