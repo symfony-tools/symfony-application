@@ -1,0 +1,39 @@
+---------------------------------------------------------------------------
+
+by OskarStark at 2025-06-19T10:20:42Z
+
+I think it is fine to use PHP 8.3, can you prepare a separate PR?
+
+---------------------------------------------------------------------------
+
+by vinceAmstoutz at 2025-06-19T13:10:59Z
+
+> I think it is fine to use PHP 8.3, can you prepare a separate PR?
+
+Done in https://github.com/symfony-tools/symfony-application/pull/38
+
+---------------------------------------------------------------------------
+
+by OskarStark at 2025-06-23T08:12:08Z
+
+Can you rebase?
+
+---------------------------------------------------------------------------
+
+by vinceAmstoutz at 2025-06-23T09:30:54Z
+
+> Can you rebase?
+
+Done 👍
+
+---------------------------------------------------------------------------
+
+by OskarStark at 2025-08-15T14:11:24Z
+
+Can you merge @xabbuh ?
+
+---------------------------------------------------------------------------
+
+by vinceAmstoutz at 2025-09-19T13:22:19Z
+
+Friendly ping on this one 😄
