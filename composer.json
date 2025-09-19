@@ -51,6 +51,7 @@
         "twig/twig": "^3.0"
     },
     "require-dev": {
+        "phpunit/phpunit": "*",
         "symfony/browser-kit": "*",
         "symfony/css-selector": "*",
         "symfony/debug-bundle": "*",
