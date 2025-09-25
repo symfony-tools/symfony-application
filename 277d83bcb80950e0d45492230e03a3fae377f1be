@@ -1,0 +1,14 @@
+---------------------------------------------------------------------------
+
+by javiereguiluz at 2025-09-25T06:45:47Z
+
+Thanks for fixing this.
+
+But, I'm trying to understand why this started failing suddenly today? Shouldn't we see a deprecation message instead?
+
+---------------------------------------------------------------------------
+
+by nicolas-grekas at 2025-09-25T06:48:13Z
+
+That's because of https://github.com/symfony/symfony/pull/51273#discussion_r2359723452
+We could go with a deprecation, but honestly this is trivial to fix and is quite old...
