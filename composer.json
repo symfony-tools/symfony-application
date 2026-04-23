@@ -24,6 +24,7 @@
         "symfony/intl": "*",
         "symfony/json-path": "*",
         "symfony/json-streamer": "*",
+        "symfony/ldap": "*",
         "symfony/lock": "*",
         "symfony/mailer": "*",
         "symfony/mercure-bundle": "^0.3.2",
