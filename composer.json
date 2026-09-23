@@ -40,6 +40,7 @@
         "symfony/security-bundle": "*",
         "symfony/serializer": "*",
         "symfony/translation": "*",
+        "symfony/tui": "*",
         "symfony/twig-bundle": "*",
         "symfony/uid": "*",
         "symfony/validator": "*",
