@@ -22,6 +22,7 @@
         "symfony/http-client": "*",
         "symfony/intl": "*",
         "symfony/json-path": "*",
+        "symfony/json-schema": "*",
         "symfony/json-streamer": "*",
         "symfony/ldap": "*",
         "symfony/lock": "*",
